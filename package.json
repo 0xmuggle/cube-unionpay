@@ -1,0 +1,33 @@
+{
+  "name": "cube-unionpay",
+  "version": "0.0.9",
+  "description": "unionpay cube-unionpay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xmuggle/cube-unionpay.gi.git"
+  },
+  "keywords": [
+    "unionpay"
+  ],
+  "author": "0xmuggle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xmuggle/cube-unionpay.gi/issues"
+  },
+  "homepage": "https://github.com/0xmuggle/cube-unionpay.gi#readme",
+  "dependencies": {
+    "iconv-lite": "^0.4.24",
+    "moment": "^2.22.2",
+    "urlencode": "^1.1.0"
+  },
+  "devDependencies": {
+    "@types/iconv-lite": "0.0.1",
+    "@types/moment": "^2.13.0",
+    "@types/node": "^10.9.4"
+  }
+}
